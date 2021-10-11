@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on connecting various APIs in my apps
-- 🌱 I’m currently learning Algorithms and Data Structures
+- 🔭 I’m currently working on connecting various APIs in my apps, plus building user-friendly GUIs.
+- 🌱 I’m currently learning Bash, Algorithms and Data Structures.
 
 <!--
 **Szymon-OPS/Szymon-OPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
